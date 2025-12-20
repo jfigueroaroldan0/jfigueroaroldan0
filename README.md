@@ -4,7 +4,10 @@
  
 </p>
 
-![Visitas](https://komarev.com/ghpvc/?username=jfigueroaroldan0&style=flat&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jfigueroaroldan0&label=Visitas&style=for-the-badge&color=blue" />
+</p>
+
 
 <br>
 
