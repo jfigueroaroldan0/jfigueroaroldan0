@@ -4,6 +4,7 @@
  
 </p>
 
+![Visitas](https://komarev.com/ghpvc/?username=jfigueroaroldan0&style=flat&color=blue)
 
 <br>
 
