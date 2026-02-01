@@ -17,23 +17,13 @@
     <img alt="Website" title="Website" src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
-<br>
+## 🚀 Sobre mí
 
-</p>
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+Estudiante de **ASIR** (1º año) apasionado por la ciberseguridad y la infraestructura. Me encanta investirar sobre ciberseguridad, diseñar arquitecturas en cloud y montar escenarios completos con servicios reales.
 
-<br><br>
+Actualmente trabajo principalmente con **Linux (Debian 13)** y disfruto día a día aprendiendo y construyendo soluciones que marquen la diferencia.
 
-- :school: Actualmente estoy estudiando Administración de sistemas informáticos en red - IES Gonzalo Nazareno
-- :trophy:  Técnico en Sistemas microinformáticos y redes (2022-2024) - IES Los Alcores 
-- :technologist: Apasionado por la tecnología
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+### 💼 Experiencia
 
-<br>
-
-## 🛠️ Habilidades
-
-</br></br>
+- 🤝 **HPE CDS** - 3 meses de experiencia
 	
