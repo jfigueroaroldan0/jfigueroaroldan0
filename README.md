@@ -1,8 +1,4 @@
-
 <h1 align="center">Hola , soy Jesús Figueroa Roldán <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
- 
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jfigueroaroldan0&label=VISITAS&style=for-the-badge&color=blue" />
@@ -19,7 +15,7 @@
 
 ## 🚀 Sobre mí
 
-Estudiante de **ASIR** (1º año) apasionado por la ciberseguridad y la infraestructura. Me encanta investirar sobre ciberseguridad, diseñar arquitecturas en cloud y montar escenarios completos con servicios reales.
+Estudiante de **ASIR** (1º año) apasionado por la ciberseguridad y la infraestructura. Me encanta investigar sobre ciberseguridad, diseñar arquitecturas en cloud y montar escenarios completos con servicios reales.
 
 Actualmente trabajo principalmente con **Linux (Debian 13)** y disfruto día a día aprendiendo y construyendo soluciones que marquen la diferencia.
 
@@ -38,8 +34,7 @@ Actualmente trabajo principalmente con **Linux (Debian 13)** y disfruto día a d
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Áreas de interés
-- 🌐 **Redes**  
-- ☁️ **Cloud Computing**
+- 🌐 **Redes** - ☁️ **Cloud Computing**
 - 🔧 **Automatización**
 - 🖥️ **Administración de Sistemas**
 
@@ -47,11 +42,13 @@ Actualmente trabajo principalmente con **Linux (Debian 13)** y disfruto día a d
 
 <div align="center">
   
-  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jfigueroaroldan0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jfigueroaroldan0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
   
-  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jfigueroaroldan0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jfigueroaroldan0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
   
-  ![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=jfigueroaroldan0&theme=tokyonight&hide_border=true&background=0D1117)
+![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=jfigueroaroldan0&theme=tokyonight&hide_border=true&background=0D1117)
+
+</div>
 
 ## 🌱 Actualmente
 
@@ -65,15 +62,15 @@ Actualmente trabajo principalmente con **Linux (Debian 13)** y disfruto día a d
 Para sumarte a proyectos, resolver inquietudes técnicas o tratar temas de tecnología:
 
 * 📧 **Email:** [jesusfigueroaroldan@gmail.com](mailto:jesusfigueroaroldan@gmail.com)
-* 💼 **LinkedIn:** [Jesús Figueroa](https://www.linkedin.com/in/tu-usuario-aqui)
+* 💼 **LinkedIn:** [Jesús Figueroa](https://www.linkedin.com/in/jesús-figueroa-roldán-873568388/)
 * 📖 **Documentación:** En proceso
 
 --- 
 
 <div align="center">
   
-  **¡Gracias por visitar mi perfil!** 😊
+**¡Gracias por visitar mi perfil!** 😊
   
-  ![Visitas al perfil](https://komarev.com/ghpvc/?username=jfigueroaroldan0&color=blueviolet&style=flat-square)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=jfigueroaroldan0&color=blueviolet&style=flat-square)
   
 </div>
