@@ -55,8 +55,8 @@ Actualmente trabajo principalmente con **Linux (Debian 13)** y disfruto día a d
 
 ## 🌱 Actualmente
 
-- 🎓 Cursando 1º de **ASIR**
-- 🚀 Desarrolando documentación
+🎓 Cursando 1º de **ASIR**
+🚀 Desarrolando documentación
 
 ---
 
