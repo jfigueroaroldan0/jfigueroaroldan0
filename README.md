@@ -39,17 +39,7 @@ Actualmente trabajo principalmente con **Linux (Debian 13)** y disfruto día a d
 - 🔧 **Automatización**
 - 🖥️ **Administración de Sistemas**
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jfigueroaroldan0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jfigueroaroldan0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-  
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=jfigueroaroldan0&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
+--- 
 
 ## 🌱 Actualmente
 
