@@ -53,7 +53,7 @@ Actualmente trabajo principalmente con **Linux (Debian 13)** y disfruto día a d
   
   ![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=jfigueroaroldan0&theme=tokyonight&hide_border=true&background=0D1117)
 
-  ## 🌱 Actualmente
+## 🌱 Actualmente
 
 - 🎓 Cursando 1º de **ASIR**
 - 🚀 Desarrolando documentación
