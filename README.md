@@ -39,7 +39,7 @@ Actualmente trabajo principalmente con **Linux (Debian 13)** y disfruto día a d
 
 ### Áreas de interés
 🌐 **Redes**  
-☁️ **Cloud Computing** 
+☁️ **Cloud Computing**
 🔧 **Automatización**
 🖥️ **Administración de Sistemas**
 
