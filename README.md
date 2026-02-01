@@ -64,9 +64,9 @@ Actualmente trabajo principalmente con **Linux (Debian 13)** y disfruto día a d
 
 Para sumarte a proyectos, resolver inquietudes técnicas o tratar temas de tecnología:<br><br>
 
-📧 Email: <a href="mailto:jesusfigueroaroldan@gmail.com">jesusfigueroaroldan@gmail.com</a><br>
-💼 LinkedIn: <a href="https://www.linkedin.com/in/jesus-figueroa-roldan-873568388">Jesús Figueroa</a><br>
-📖 Documentación: En proceso
+- 📧 Email: <a href="mailto:jesusfigueroaroldan@gmail.com">jesusfigueroaroldan@gmail.com</a><br>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/jesus-figueroa-roldan-873568388">Jesús Figueroa</a><br>
+- 📖 Documentación: En proceso
 
 ---
 
