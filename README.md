@@ -55,20 +55,20 @@ Actualmente trabajo principalmente con **Linux (Debian 13)** y disfruto día a d
 
 ## 🌱 Actualmente
 
-- 🎓 Cursando 1º de **ASIR**
-- 🚀 Desarrollando documentación
+* 🎓 Cursando 1º de **ASIR**
+* 🚀 Desarrollando documentación
 
 ---
 
 ## 📫 ¿Hablamos?
 
-Para sumarte a proyectos, resolver inquietudes técnicas o tratar temas de tecnología:<br><br>
+Para sumarte a proyectos, resolver inquietudes técnicas o tratar temas de tecnología:
 
-- 📧 Email: <a href="mailto:jesusfigueroaroldan@gmail.com">jesusfigueroaroldan@gmail.com</a><br>
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/jesus-figueroa-roldan-873568388">Jesús Figueroa</a><br>
-- 📖 Documentación: En proceso
+* 📧 **Email:** [jesusfigueroaroldan@gmail.com](mailto:jesusfigueroaroldan@gmail.com)
+* 💼 **LinkedIn:** [Jesús Figueroa](https://www.linkedin.com/in/tu-usuario-aqui)
+* 📖 **Documentación:** En proceso
 
----
+--- 
 
 <div align="center">
   
