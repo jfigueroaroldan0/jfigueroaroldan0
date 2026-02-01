@@ -34,7 +34,8 @@ Actualmente trabajo principalmente con **Linux (Debian 13)** y disfruto día a d
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Áreas de interés
-- 🌐 **Redes** - ☁️ **Cloud Computing**
+- 🌐 **Redes** 
+- ☁️ **Cloud Computing**
 - 🔧 **Automatización**
 - 🖥️ **Administración de Sistemas**
 
