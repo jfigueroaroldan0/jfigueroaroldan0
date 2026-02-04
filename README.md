@@ -17,7 +17,7 @@
 
 Estudiante de **ASIR** (1º año) apasionado por la ciberseguridad y la infraestructura. Me encanta investigar sobre ciberseguridad, diseñar arquitecturas en cloud y montar escenarios completos con servicios reales.
 
-Actualmente trabajo principalmente con **Linux (Debian 13)** y disfruto día a día aprendiendo y construyendo soluciones que marquen la diferencia.
+Actualmente trabajo principalmente con **Linux (Debian 13)** y disfruto día a día aprendiendo.
 
 ### 💼 Experiencia
 
